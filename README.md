@@ -1,8 +1,8 @@
 ### Hello, I'm Bruna Dantas.
 
 
-- 🔭 I’m currently working on SQL
-- 🌱 I’m currently learning SQL, JavaScript and C# 
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning SQL and JavaScript  
 - 😄 Pronouns: She/Her
 
 
