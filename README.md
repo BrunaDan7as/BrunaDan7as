@@ -1,9 +1,9 @@
-### Hello, I'm Bruna Dantas.
+### Olá, Me chamo Bruna Dantas.
 
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning SQL and JavaScript  
-- 😄 Pronouns: She/Her
+- 🔭 Estou praticando HTML, CSS e JavaScript
+- 🌱 Estou aprendendo Java 
+- 😄 Pronome: Ela/Dela
 
 
 <div align="center">
