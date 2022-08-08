@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou praticando HTML, CSS e JavaScript
-- 🌱 Estou aprendendo Java 
+- 🌱 Estou aprendendo Java e MySQL
 - 😄 Pronome: Ela/Dela
 
 
