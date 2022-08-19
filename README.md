@@ -1,8 +1,8 @@
 ### Olá, Me chamo Bruna Dantas.
 
 
-- 🔭 Estou praticando HTML, CSS e JavaScript
-- 🌱 Estou aprendendo Java e MySQL
+- 🔭 Estou praticando C#, Javascript
+- 🌱 Estou aprendendo C#, ASP Classic e SQL Server
 - 😄 Pronome: Ela/Dela
 
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Bruna-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Bruna-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
+  <link align="center" alt="Bruna-CSS" height="40" width="50" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>  
           
   
