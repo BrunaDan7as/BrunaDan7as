@@ -1,9 +1,9 @@
-### Olá, Me chamo Bruna Dantas.
+### Hello, My name is Bruna Dantas.
 
 
-- 🔭 Estou praticando C#, Javascript
-- 🌱 Estou aprendendo C#, ASP Classic e SQL Server
-- 😄 Pronome: Ela/Dela
+- 🔭 I'm practicing C#, Typescript and React JS
+- 🌱 I'm learning C#, Typescript, React JS and Spring Boot
+- 😄 Pronome: She/Her
 
 
 <div align="center">
@@ -13,11 +13,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Bruna-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
+  <img align="center" alt="Bruna-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruna-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
+  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
 </div>  
           
   
