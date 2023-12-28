@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm practicing C#, Typescript and React JS
-- 🌱 I'm learning C#, Typescript, React JS and Spring Boot
+- 🌱 I'm learning C#, Typescript and React JS 
 - 😄 Pronome: She/Her
 
 
@@ -16,9 +16,14 @@
   <img align="center" alt="Bruna-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
-  <img align="center" alt="Bruna-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+  <img align="center" alt="Bruna-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Bruna-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  <img align="center" alt="Bruna-csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  
+  <img align="center" alt="Bruna-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" >
+  <img align="center" alt="Bruna-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+  <img align="center" alt="Bruna-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" >
+  <img align="center" alt="Bruna-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" >
 </div>  
           
   
