@@ -1,14 +1,14 @@
-### Hello, My name is Bruna Dantas.
+### Hello, Meu nome é Bruna Dantas.
 
 
-- 🔭 I'm practicing C#, Typescript and React JS
-- 🌱 I'm learning C#, Typescript and React JS 
-- 😄 Pronome: She/Her
+- 🔭 Estou praticando C#, Efcore and React JS
+- ❤️ Familiariazada com: C#, Efcore, SQL Server,React Js,TypeScript, Git, Bootstrap
+- 😄 Pronome: Ela/Dela
 
 
 <div align="center">
   <a href="https://github.com/BrunaDan7as">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunadan7as&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  **<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunadan7as&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>**
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadan7as&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
