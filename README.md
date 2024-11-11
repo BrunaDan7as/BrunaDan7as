@@ -1,8 +1,8 @@
 ### Hello, Meu nome é Bruna Dantas.
 
 
-- 🔭 Estou praticando C#, Efcore and React JS
-- ❤️ Familiariazada com: C#, Efcore, SQL Server,React Js,TypeScript, Git, Bootstrap
+- 🔭 Estou praticando Node.js, Python, React Ts
+- ❤️ Familiariazada com: C#, SQL Server,React Js,TypeScript, Git, Bootstrap
 - 😄 Pronome: Ela/Dela
 
 
